@@ -1,0 +1,16 @@
+﻿[Button3]
+Coordinates=10,78,59,58
+
+[Button4]
+Coordinates=79,78,59,58
+
+[Button2]
+Coordinates=280,10,59,58
+
+[Image1]
+Coordinates=213,10,57,58
+Visible=True
+
+[]
+Coordinates=79,10,59,58
+

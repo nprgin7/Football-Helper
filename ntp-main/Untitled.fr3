@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<TfrxReport Version="6.2.1" DataSet="frxDBDataset1" DataSetName="frxDBDataset1" DotMatrixReport="False" IniFile="\Software\Fast Reports" PreviewOptions.Buttons="167935" PreviewOptions.Zoom="1" PrintOptions.Printer="Default" PrintOptions.PrintOnSheet="0" ReportOptions.CreateDate="44342,1087525926" ReportOptions.Description.Text="" ReportOptions.LastChange="44432,4907784259" ScriptLanguage="PascalScript" ScriptText.Text="begin&#13;&#10;&#13;&#10;end.">
+  <Datasets>
+    <item DataSet="frxDBDataset1" DataSetName="frxDBDataset1"/>
+  </Datasets>
+  <TfrxDataPage Name="Data" Height="1000" Left="0" Top="0" Width="1000"/>
+  <TfrxReportPage Name="Page1" PaperWidth="210" PaperHeight="297" PaperSize="9" LeftMargin="10" RightMargin="10" TopMargin="10" BottomMargin="10" ColumnWidth="0" ColumnPositions.Text="" Frame.Typ="0" HGuides.Text="" VGuides.Text="">
+    <TfrxReportTitle Name="ReportTitle1" FillType="ftBrush" FillGap.Top="0" FillGap.Left="0" FillGap.Bottom="0" FillGap.Right="0" Frame.Typ="0" Height="22,67718" Left="0" Top="18,89765" Width="718,1107">
+      <TfrxMemoView Name="Memo1" AllowVectorExport="True" Left="291,02381" Top="0" Width="94,48825" Height="18,89765" Frame.Typ="0" Text="FIFA Ranking"/>
+    </TfrxReportTitle>
+    <TfrxMemoView Name="frxDBDataset1player_fifa" IndexTag="1" AllowVectorExport="True" Left="309,92146" Top="79,37013" Width="241,88992" Height="18,89765" DataField="player_fifa" DataSet="frxDBDataset1" DataSetName="frxDBDataset1" Frame.Typ="0" Text="[frxDBDataset1.&#34;player_fifa&#34;]"/>
+    <TfrxMemoView Name="frxDBDataset1god" IndexTag="1" AllowVectorExport="True" Left="3,77953" Top="79,37013" Width="79,37013" Height="18,89765" DataField="god" DataSet="frxDBDataset1" DataSetName="frxDBDataset1" Frame.Typ="0" Text="[frxDBDataset1.&#34;god&#34;]"/>
+    <TfrxMemoView Name="frxDBDataset1rank_fifa" IndexTag="1" AllowVectorExport="True" Left="154,96073" Top="79,37013" Width="79,37013" Height="18,89765" DataField="rank_fifa" DataSet="frxDBDataset1" DataSetName="frxDBDataset1" Frame.Typ="0" Text="[frxDBDataset1.&#34;rank_fifa&#34;]"/>
+    <TfrxMemoView Name="frxDBDataset1team_fifa" IndexTag="1" AllowVectorExport="True" Left="551,81138" Top="79,37013" Width="328,81911" Height="18,89765" DataField="team_fifa" DataSet="frxDBDataset1" DataSetName="frxDBDataset1" Frame.Typ="0" Text="[frxDBDataset1.&#34;team_fifa&#34;]"/>
+  </TfrxReportPage>
+</TfrxReport>

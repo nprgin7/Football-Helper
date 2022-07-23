@@ -1,0 +1,10 @@
+#ifdef _WIN32
+#include <tchar.h>
+#endif
+
+#ifdef _EXPORTING
+   #define CLASS_DECLSPEC declspec(dllexport)
+#else
+   #define CLASS_DECLSPEC declspec(dllimport)
+#endif
+

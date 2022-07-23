@@ -1,0 +1,122 @@
+object Form13: TForm13
+  Left = 0
+  Top = 0
+  Caption = 'Form13'
+  ClientHeight = 321
+  ClientWidth = 678
+  Color = clBtnFace
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -11
+  Font.Name = 'Tahoma'
+  Font.Style = []
+  OldCreateOrder = False
+  PixelsPerInch = 96
+  TextHeight = 13
+  object Edit1: TEdit
+    Left = 80
+    Top = 88
+    Width = 121
+    Height = 21
+    TabOrder = 0
+    TextHint = 'Ime kluba'
+  end
+  object Edit2: TEdit
+    Left = 80
+    Top = 128
+    Width = 121
+    Height = 21
+    TabOrder = 1
+    TextHint = 'W'
+  end
+  object Edit3: TEdit
+    Left = 80
+    Top = 168
+    Width = 121
+    Height = 21
+    TabOrder = 2
+    TextHint = 'D'
+  end
+  object Edit4: TEdit
+    Left = 80
+    Top = 208
+    Width = 121
+    Height = 21
+    TabOrder = 3
+    TextHint = 'L'
+  end
+  object Edit5: TEdit
+    Left = 440
+    Top = 88
+    Width = 121
+    Height = 21
+    TabOrder = 4
+    TextHint = 'Ime kluba'
+  end
+  object Edit6: TEdit
+    Left = 440
+    Top = 128
+    Width = 121
+    Height = 21
+    TabOrder = 5
+    TextHint = 'P'
+  end
+  object Edit7: TEdit
+    Left = 440
+    Top = 168
+    Width = 121
+    Height = 21
+    TabOrder = 6
+    TextHint = 'N'
+  end
+  object Edit8: TEdit
+    Left = 440
+    Top = 208
+    Width = 121
+    Height = 21
+    TabOrder = 7
+    TextHint = 'I'
+  end
+  object Edit9: TEdit
+    Left = 264
+    Top = 168
+    Width = 121
+    Height = 21
+    Cursor = crNo
+    Alignment = taCenter
+    CharCase = ecUpperCase
+    DragCursor = crNo
+    ReadOnly = True
+    TabOrder = 8
+    TextHint = 'i pobjednik je...'
+  end
+  object Button1: TButton
+    Left = 264
+    Top = 137
+    Width = 121
+    Height = 25
+    Caption = 'Predvidi'
+    TabOrder = 9
+    OnClick = Button1Click
+  end
+  object TCPClient54: TIdTCPClient
+    ConnectTimeout = 0
+    Host = '127.0.0.1'
+    IPVersion = Id_IPv4
+    Port = 0
+    ReadTimeout = -1
+    Left = 592
+    Top = 24
+  end
+  object TCPServer54: TIdTCPServer
+    Bindings = <
+      item
+        IP = '0.0.0.0'
+        Port = 13008
+      end>
+    DefaultPort = 13008
+    OnExecute = TCPServer54Execute
+    Left = 592
+    Top = 80
+  end
+end

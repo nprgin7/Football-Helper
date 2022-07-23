@@ -1,0 +1,528 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE xliff PUBLIC "-//XLIFF//DTD XLIFF//EN" "http://www.oasis-open.org/committees/xliff/documents/xliff.dtd">
+<xliff version="1.0">
+  <file original="C:\Users\Filip\Documents\GitHub\ntp\Unit10.dfm" source-language="hr-HR" target-language="en-US" datatype="delphiform" tool="ETM v10.0" ts="C:\Users\Filip\Documents\GitHub\ntp\Unit10.dfm">
+    <header>
+      <prop-group name="ITEHeaderProp">
+        <prop prop-type="Version">9.0</prop>
+        <prop prop-type="SelfDateTime">44432.5258101852</prop>
+        <prop prop-type="OrigDateTime">44431.8060416667</prop>
+        <prop prop-type="XlatDateTime">44431.8060416667</prop>
+        <prop prop-type="Translated">0</prop>
+        <prop prop-type="UnTranslated">102</prop>
+      </prop-group>
+    </header>
+    <body>
+      <trans-unit id="O:Form10.Left" resname="O:Form10.Left">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">44432.5258117245</prop><prop prop-type="Status">0</prop><prop prop-type="Order">0</prop><prop prop-type="Type">TForm10</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form10.Top" resname="O:Form10.Top">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">44432.5258117245</prop><prop prop-type="Status">0</prop><prop prop-type="Order">1</prop><prop prop-type="Type">TForm10</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form10.Caption" resname="O:Form10.Caption">
+        <source>'Form10'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">44432.5258117245</prop><prop prop-type="Status">0</prop><prop prop-type="Order">2</prop><prop prop-type="Type">TForm10</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form10.ClientHeight" resname="O:Form10.ClientHeight">
+        <source>321</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">44432.5258117245</prop><prop prop-type="Status">0</prop><prop prop-type="Order">3</prop><prop prop-type="Type">TForm10</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form10.ClientWidth" resname="O:Form10.ClientWidth">
+        <source>678</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">44432.5258117245</prop><prop prop-type="Status">0</prop><prop prop-type="Order">4</prop><prop prop-type="Type">TForm10</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form10.Color" resname="O:Form10.Color">
+        <source>clBtnFace</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">44432.5258117245</prop><prop prop-type="Status">0</prop><prop prop-type="Order">5</prop><prop prop-type="Type">TForm10</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form10.Font.Charset" resname="O:Form10.Font.Charset">
+        <source>DEFAULT_CHARSET</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">44432.5258117245</prop><prop prop-type="Status">0</prop><prop prop-type="Order">6</prop><prop prop-type="Type">TForm10</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form10.Font.Color" resname="O:Form10.Font.Color">
+        <source>clWindowText</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">44432.5258117245</prop><prop prop-type="Status">0</prop><prop prop-type="Order">7</prop><prop prop-type="Type">TForm10</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form10.Font.Height" resname="O:Form10.Font.Height">
+        <source>-11</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">44432.5258117245</prop><prop prop-type="Status">0</prop><prop prop-type="Order">8</prop><prop prop-type="Type">TForm10</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form10.Font.Name" resname="O:Form10.Font.Name">
+        <source>'Tahoma'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">44432.5258117245</prop><prop prop-type="Status">0</prop><prop prop-type="Order">9</prop><prop prop-type="Type">TForm10</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form10.Font.Style" resname="O:Form10.Font.Style">
+        <source>[]</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">44432.5258117245</prop><prop prop-type="Status">0</prop><prop prop-type="Order">10</prop><prop prop-type="Type">TForm10</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form10.OldCreateOrder" resname="O:Form10.OldCreateOrder">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">44432.5258117245</prop><prop prop-type="Status">0</prop><prop prop-type="Order">11</prop><prop prop-type="Type">TForm10</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form10.PixelsPerInch" resname="O:Form10.PixelsPerInch">
+        <source>96</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">44432.5258117245</prop><prop prop-type="Status">0</prop><prop prop-type="Order">12</prop><prop prop-type="Type">TForm10</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form10.TextHeight" resname="O:Form10.TextHeight">
+        <source>13</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">44432.5258117245</prop><prop prop-type="Status">0</prop><prop prop-type="Order">13</prop><prop prop-type="Type">TForm10</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form10.O:frxDBDataset1.UserName" resname="O:Form10.O:frxDBDataset1.UserName">
+        <source>'frxDBDataset1'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">44432.5258117245</prop><prop prop-type="Status">0</prop><prop prop-type="Order">14</prop><prop prop-type="Type">TfrxDBDataset</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form10.O:frxDBDataset1.CloseDataSource" resname="O:Form10.O:frxDBDataset1.CloseDataSource">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">44432.5258117245</prop><prop prop-type="Status">0</prop><prop prop-type="Order">15</prop><prop prop-type="Type">TfrxDBDataset</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form10.O:frxDBDataset1.BCDToCurrency" resname="O:Form10.O:frxDBDataset1.BCDToCurrency">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">44432.5258117245</prop><prop prop-type="Status">0</prop><prop prop-type="Order">16</prop><prop prop-type="Type">TfrxDBDataset</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form10.O:frxDBDataset1.Left" resname="O:Form10.O:frxDBDataset1.Left">
+        <source>352</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">44432.5258117245</prop><prop prop-type="Status">0</prop><prop prop-type="Order">17</prop><prop prop-type="Type">TfrxDBDataset</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form10.O:frxDBDataset1.Top" resname="O:Form10.O:frxDBDataset1.Top">
+        <source>56</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">44432.5258117245</prop><prop prop-type="Status">0</prop><prop prop-type="Order">18</prop><prop prop-type="Type">TfrxDBDataset</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form10.O:frxReport1.Version" resname="O:Form10.O:frxReport1.Version">
+        <source>'6.2.1'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">44432.5258117245</prop><prop prop-type="Status">0</prop><prop prop-type="Order">19</prop><prop prop-type="Type">TfrxReport</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form10.O:frxReport1.DataSet" resname="O:Form10.O:frxReport1.DataSet">
+        <source>frxDBDataset2</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">44432.5258117245</prop><prop prop-type="Status">0</prop><prop prop-type="Order">20</prop><prop prop-type="Type">TfrxReport</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form10.O:frxReport1.DataSetName" resname="O:Form10.O:frxReport1.DataSetName">
+        <source>'frxDBDataset2'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">44432.5258117245</prop><prop prop-type="Status">0</prop><prop prop-type="Order">21</prop><prop prop-type="Type">TfrxReport</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form10.O:frxReport1.DotMatrixReport" resname="O:Form10.O:frxReport1.DotMatrixReport">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">44432.5258117245</prop><prop prop-type="Status">0</prop><prop prop-type="Order">22</prop><prop prop-type="Type">TfrxReport</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form10.O:frxReport1.IniFile" resname="O:Form10.O:frxReport1.IniFile">
+        <source>'\Software\Fast Reports'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">44432.5258117245</prop><prop prop-type="Status">0</prop><prop prop-type="Order">23</prop><prop prop-type="Type">TfrxReport</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form10.O:frxReport1.PreviewOptions.Buttons" resname="O:Form10.O:frxReport1.PreviewOptions.Buttons">
+        <source>[pbPrint, pbLoad, pbSave, pbExport, pbZoom, pbFind, pbOutline, pbPageSetup, pbTools, pbEdit, pbNavigator, pbExportQuick, pbCopy, pbSelection]</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">44432.5258117245</prop><prop prop-type="Status">0</prop><prop prop-type="Order">24</prop><prop prop-type="Type">TfrxReport</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form10.O:frxReport1.PreviewOptions.Zoom" resname="O:Form10.O:frxReport1.PreviewOptions.Zoom">
+        <source>1</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">44432.5258117245</prop><prop prop-type="Status">0</prop><prop prop-type="Order">25</prop><prop prop-type="Type">TfrxReport</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form10.O:frxReport1.PrintOptions.Printer" resname="O:Form10.O:frxReport1.PrintOptions.Printer">
+        <source>'Default'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">44432.5258117245</prop><prop prop-type="Status">0</prop><prop prop-type="Order">26</prop><prop prop-type="Type">TfrxReport</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form10.O:frxReport1.PrintOptions.PrintOnSheet" resname="O:Form10.O:frxReport1.PrintOptions.PrintOnSheet">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">44432.5258117245</prop><prop prop-type="Status">0</prop><prop prop-type="Order">27</prop><prop prop-type="Type">TfrxReport</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form10.O:frxReport1.ReportOptions.CreateDate" resname="O:Form10.O:frxReport1.ReportOptions.CreateDate">
+        <source>44342.1028611227</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">44432.5258117245</prop><prop prop-type="Status">0</prop><prop prop-type="Order">28</prop><prop prop-type="Type">TfrxReport</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form10.O:frxReport1.ReportOptions.LastChange" resname="O:Form10.O:frxReport1.ReportOptions.LastChange">
+        <source>44342.1028611227</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">44432.5258117245</prop><prop prop-type="Status">0</prop><prop prop-type="Order">29</prop><prop prop-type="Type">TfrxReport</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form10.O:frxReport1.ScriptLanguage" resname="O:Form10.O:frxReport1.ScriptLanguage">
+        <source>'PascalScript'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">44432.5258117361</prop><prop prop-type="Status">0</prop><prop prop-type="Order">30</prop><prop prop-type="Type">TfrxReport</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form10.O:frxReport1.ScriptText.Strings[0]" resname="O:Form10.O:frxReport1.ScriptText.Strings[0]">
+        <source>'begin'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">44432.5258117361</prop><prop prop-type="Status">0</prop><prop prop-type="Order">31</prop><prop prop-type="Type">TfrxReport</prop><prop prop-type="Localize">1</prop><prop prop-type="Open">(</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form10.O:frxReport1.ScriptText.Strings[1]" resname="O:Form10.O:frxReport1.ScriptText.Strings[1]">
+        <source>''</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">44432.5258117361</prop><prop prop-type="Status">0</prop><prop prop-type="Order">32</prop><prop prop-type="Type">TfrxReport</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form10.O:frxReport1.ScriptText.Strings[2]" resname="O:Form10.O:frxReport1.ScriptText.Strings[2]">
+        <source>'end.'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">44432.5258117361</prop><prop prop-type="Status">0</prop><prop prop-type="Order">33</prop><prop prop-type="Type">TfrxReport</prop><prop prop-type="Localize">1</prop><prop prop-type="Close">)</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form10.O:frxReport1.Left" resname="O:Form10.O:frxReport1.Left">
+        <source>472</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">44432.5258117361</prop><prop prop-type="Status">0</prop><prop prop-type="Order">34</prop><prop prop-type="Type">TfrxReport</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form10.O:frxReport1.Top" resname="O:Form10.O:frxReport1.Top">
+        <source>96</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">44432.5258117361</prop><prop prop-type="Status">0</prop><prop prop-type="Order">35</prop><prop prop-type="Type">TfrxReport</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form10.O:frxReport1.Datasets[0].DataSet" resname="O:Form10.O:frxReport1.Datasets[0].DataSet">
+        <source>frxDBDataset1</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">44432.5258117361</prop><prop prop-type="Status">0</prop><prop prop-type="Order">36</prop><prop prop-type="Type">C:TfrxReport</prop><prop prop-type="Localize">1</prop><prop prop-type="Open">&lt;item</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form10.O:frxReport1.Datasets[0].DataSetName" resname="O:Form10.O:frxReport1.Datasets[0].DataSetName">
+        <source>'frxDBDataset1'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">44432.5258117361</prop><prop prop-type="Status">0</prop><prop prop-type="Order">37</prop><prop prop-type="Type">C:TfrxReport</prop><prop prop-type="Localize">1</prop><prop prop-type="Close">end</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form10.O:frxReport1.Datasets[1].DataSet" resname="O:Form10.O:frxReport1.Datasets[1].DataSet">
+        <source>frxDBDataset2</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">44432.5258117361</prop><prop prop-type="Status">0</prop><prop prop-type="Order">38</prop><prop prop-type="Type">C:TfrxReport</prop><prop prop-type="Localize">1</prop><prop prop-type="Open">item</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form10.O:frxReport1.Datasets[1].DataSetName" resname="O:Form10.O:frxReport1.Datasets[1].DataSetName">
+        <source>'frxDBDataset2'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">44432.5258117361</prop><prop prop-type="Status">0</prop><prop prop-type="Order">39</prop><prop prop-type="Type">C:TfrxReport</prop><prop prop-type="Localize">1</prop><prop prop-type="Close">end&gt;</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form10.O:frxReport1.Variables" resname="O:Form10.O:frxReport1.Variables">
+        <source>&lt;&gt;</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">44432.5258117361</prop><prop prop-type="Status">0</prop><prop prop-type="Order">40</prop><prop prop-type="Type">TfrxReport</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form10.O:frxReport1.Style" resname="O:Form10.O:frxReport1.Style">
+        <source>&lt;&gt;</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">44432.5258117361</prop><prop prop-type="Status">0</prop><prop prop-type="Order">41</prop><prop prop-type="Type">TfrxReport</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form10.O:frxReport1.O:Data.Height" resname="O:Form10.O:frxReport1.O:Data.Height">
+        <source>1000</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">44432.5258117361</prop><prop prop-type="Status">0</prop><prop prop-type="Order">42</prop><prop prop-type="Type">TfrxDataPage</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form10.O:frxReport1.O:Data.Width" resname="O:Form10.O:frxReport1.O:Data.Width">
+        <source>1000</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">44432.5258117361</prop><prop prop-type="Status">0</prop><prop prop-type="Order">43</prop><prop prop-type="Type">TfrxDataPage</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form10.O:frxReport1.O:Page1.PaperWidth" resname="O:Form10.O:frxReport1.O:Page1.PaperWidth">
+        <source>210</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">44432.5258117361</prop><prop prop-type="Status">0</prop><prop prop-type="Order">44</prop><prop prop-type="Type">TfrxReportPage</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form10.O:frxReport1.O:Page1.PaperHeight" resname="O:Form10.O:frxReport1.O:Page1.PaperHeight">
+        <source>297</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">44432.5258117361</prop><prop prop-type="Status">0</prop><prop prop-type="Order">45</prop><prop prop-type="Type">TfrxReportPage</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form10.O:frxReport1.O:Page1.PaperSize" resname="O:Form10.O:frxReport1.O:Page1.PaperSize">
+        <source>9</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">44432.5258117361</prop><prop prop-type="Status">0</prop><prop prop-type="Order">46</prop><prop prop-type="Type">TfrxReportPage</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form10.O:frxReport1.O:Page1.LeftMargin" resname="O:Form10.O:frxReport1.O:Page1.LeftMargin">
+        <source>10</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">44432.5258117361</prop><prop prop-type="Status">0</prop><prop prop-type="Order">47</prop><prop prop-type="Type">TfrxReportPage</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form10.O:frxReport1.O:Page1.RightMargin" resname="O:Form10.O:frxReport1.O:Page1.RightMargin">
+        <source>10</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">44432.5258117361</prop><prop prop-type="Status">0</prop><prop prop-type="Order">48</prop><prop prop-type="Type">TfrxReportPage</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form10.O:frxReport1.O:Page1.TopMargin" resname="O:Form10.O:frxReport1.O:Page1.TopMargin">
+        <source>10</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">44432.5258117361</prop><prop prop-type="Status">0</prop><prop prop-type="Order">49</prop><prop prop-type="Type">TfrxReportPage</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form10.O:frxReport1.O:Page1.BottomMargin" resname="O:Form10.O:frxReport1.O:Page1.BottomMargin">
+        <source>10</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">44432.5258117361</prop><prop prop-type="Status">0</prop><prop prop-type="Order">50</prop><prop prop-type="Type">TfrxReportPage</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form10.O:frxReport1.O:Page1.Frame.Typ" resname="O:Form10.O:frxReport1.O:Page1.Frame.Typ">
+        <source>[]</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">44432.5258117361</prop><prop prop-type="Status">0</prop><prop prop-type="Order">51</prop><prop prop-type="Type">TfrxReportPage</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form10.O:frxPDFExport1.UseFileCache" resname="O:Form10.O:frxPDFExport1.UseFileCache">
+        <source>True</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">44432.5258117361</prop><prop prop-type="Status">0</prop><prop prop-type="Order">52</prop><prop prop-type="Type">TfrxPDFExport</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form10.O:frxPDFExport1.ShowProgress" resname="O:Form10.O:frxPDFExport1.ShowProgress">
+        <source>True</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">44432.5258117361</prop><prop prop-type="Status">0</prop><prop prop-type="Order">53</prop><prop prop-type="Type">TfrxPDFExport</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form10.O:frxPDFExport1.OverwritePrompt" resname="O:Form10.O:frxPDFExport1.OverwritePrompt">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">44432.5258117361</prop><prop prop-type="Status">0</prop><prop prop-type="Order">54</prop><prop prop-type="Type">TfrxPDFExport</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form10.O:frxPDFExport1.DataOnly" resname="O:Form10.O:frxPDFExport1.DataOnly">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">44432.5258117361</prop><prop prop-type="Status">0</prop><prop prop-type="Order">55</prop><prop prop-type="Type">TfrxPDFExport</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form10.O:frxPDFExport1.OpenAfterExport" resname="O:Form10.O:frxPDFExport1.OpenAfterExport">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">44432.5258117361</prop><prop prop-type="Status">0</prop><prop prop-type="Order">56</prop><prop prop-type="Type">TfrxPDFExport</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form10.O:frxPDFExport1.PrintOptimized" resname="O:Form10.O:frxPDFExport1.PrintOptimized">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">44432.5258117361</prop><prop prop-type="Status">0</prop><prop prop-type="Order">57</prop><prop prop-type="Type">TfrxPDFExport</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form10.O:frxPDFExport1.Outline" resname="O:Form10.O:frxPDFExport1.Outline">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">44432.5258117361</prop><prop prop-type="Status">0</prop><prop prop-type="Order">58</prop><prop prop-type="Type">TfrxPDFExport</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form10.O:frxPDFExport1.Background" resname="O:Form10.O:frxPDFExport1.Background">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">44432.5258117361</prop><prop prop-type="Status">0</prop><prop prop-type="Order">59</prop><prop prop-type="Type">TfrxPDFExport</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form10.O:frxPDFExport1.HTMLTags" resname="O:Form10.O:frxPDFExport1.HTMLTags">
+        <source>True</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">44432.5258117361</prop><prop prop-type="Status">0</prop><prop prop-type="Order">60</prop><prop prop-type="Type">TfrxPDFExport</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form10.O:frxPDFExport1.Quality" resname="O:Form10.O:frxPDFExport1.Quality">
+        <source>95</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">44432.5258117361</prop><prop prop-type="Status">0</prop><prop prop-type="Order">61</prop><prop prop-type="Type">TfrxPDFExport</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form10.O:frxPDFExport1.Transparency" resname="O:Form10.O:frxPDFExport1.Transparency">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">44432.5258117361</prop><prop prop-type="Status">0</prop><prop prop-type="Order">62</prop><prop prop-type="Type">TfrxPDFExport</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form10.O:frxPDFExport1.Author" resname="O:Form10.O:frxPDFExport1.Author">
+        <source>'FastReport'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">44432.5258117361</prop><prop prop-type="Status">0</prop><prop prop-type="Order">63</prop><prop prop-type="Type">TfrxPDFExport</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form10.O:frxPDFExport1.Subject" resname="O:Form10.O:frxPDFExport1.Subject">
+        <source>'FastReport PDF export'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">44432.5258117361</prop><prop prop-type="Status">0</prop><prop prop-type="Order">64</prop><prop prop-type="Type">TfrxPDFExport</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form10.O:frxPDFExport1.ProtectionFlags" resname="O:Form10.O:frxPDFExport1.ProtectionFlags">
+        <source>[ePrint, eModify, eCopy, eAnnot]</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">44432.5258117361</prop><prop prop-type="Status">0</prop><prop prop-type="Order">65</prop><prop prop-type="Type">TfrxPDFExport</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form10.O:frxPDFExport1.HideToolbar" resname="O:Form10.O:frxPDFExport1.HideToolbar">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">44432.5258117361</prop><prop prop-type="Status">0</prop><prop prop-type="Order">66</prop><prop prop-type="Type">TfrxPDFExport</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form10.O:frxPDFExport1.HideMenubar" resname="O:Form10.O:frxPDFExport1.HideMenubar">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">44432.5258117361</prop><prop prop-type="Status">0</prop><prop prop-type="Order">67</prop><prop prop-type="Type">TfrxPDFExport</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form10.O:frxPDFExport1.HideWindowUI" resname="O:Form10.O:frxPDFExport1.HideWindowUI">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">44432.5258117361</prop><prop prop-type="Status">0</prop><prop prop-type="Order">68</prop><prop prop-type="Type">TfrxPDFExport</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form10.O:frxPDFExport1.FitWindow" resname="O:Form10.O:frxPDFExport1.FitWindow">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">44432.5258117361</prop><prop prop-type="Status">0</prop><prop prop-type="Order">69</prop><prop prop-type="Type">TfrxPDFExport</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form10.O:frxPDFExport1.CenterWindow" resname="O:Form10.O:frxPDFExport1.CenterWindow">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">44432.5258117361</prop><prop prop-type="Status">0</prop><prop prop-type="Order">70</prop><prop prop-type="Type">TfrxPDFExport</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form10.O:frxPDFExport1.PrintScaling" resname="O:Form10.O:frxPDFExport1.PrintScaling">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">44432.5258117361</prop><prop prop-type="Status">0</prop><prop prop-type="Order">71</prop><prop prop-type="Type">TfrxPDFExport</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form10.O:frxPDFExport1.PdfA" resname="O:Form10.O:frxPDFExport1.PdfA">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">44432.5258117361</prop><prop prop-type="Status">0</prop><prop prop-type="Order">72</prop><prop prop-type="Type">TfrxPDFExport</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form10.O:frxPDFExport1.Left" resname="O:Form10.O:frxPDFExport1.Left">
+        <source>600</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">44432.5258117361</prop><prop prop-type="Status">0</prop><prop prop-type="Order">73</prop><prop prop-type="Type">TfrxPDFExport</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form10.O:frxPDFExport1.Top" resname="O:Form10.O:frxPDFExport1.Top">
+        <source>56</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">44432.5258117361</prop><prop prop-type="Status">0</prop><prop prop-type="Order">74</prop><prop prop-type="Type">TfrxPDFExport</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form10.O:frxDBDataset2.UserName" resname="O:Form10.O:frxDBDataset2.UserName">
+        <source>'frxDBDataset2'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">44432.5258117361</prop><prop prop-type="Status">0</prop><prop prop-type="Order">75</prop><prop prop-type="Type">TfrxDBDataset</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form10.O:frxDBDataset2.CloseDataSource" resname="O:Form10.O:frxDBDataset2.CloseDataSource">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">44432.5258117361</prop><prop prop-type="Status">0</prop><prop prop-type="Order">76</prop><prop prop-type="Type">TfrxDBDataset</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form10.O:frxDBDataset2.BCDToCurrency" resname="O:Form10.O:frxDBDataset2.BCDToCurrency">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">44432.5258117361</prop><prop prop-type="Status">0</prop><prop prop-type="Order">77</prop><prop prop-type="Type">TfrxDBDataset</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form10.O:frxDBDataset2.Left" resname="O:Form10.O:frxDBDataset2.Left">
+        <source>352</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">44432.5258117361</prop><prop prop-type="Status">0</prop><prop prop-type="Order">78</prop><prop prop-type="Type">TfrxDBDataset</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form10.O:frxDBDataset2.Top" resname="O:Form10.O:frxDBDataset2.Top">
+        <source>144</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">44432.5258117361</prop><prop prop-type="Status">0</prop><prop prop-type="Order">79</prop><prop prop-type="Type">TfrxDBDataset</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form10.O:frxRTFExport1.UseFileCache" resname="O:Form10.O:frxRTFExport1.UseFileCache">
+        <source>True</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">44432.5258117361</prop><prop prop-type="Status">0</prop><prop prop-type="Order">80</prop><prop prop-type="Type">TfrxRTFExport</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form10.O:frxRTFExport1.ShowProgress" resname="O:Form10.O:frxRTFExport1.ShowProgress">
+        <source>True</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">44432.5258117361</prop><prop prop-type="Status">0</prop><prop prop-type="Order">81</prop><prop prop-type="Type">TfrxRTFExport</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form10.O:frxRTFExport1.OverwritePrompt" resname="O:Form10.O:frxRTFExport1.OverwritePrompt">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">44432.5258117361</prop><prop prop-type="Status">0</prop><prop prop-type="Order">82</prop><prop prop-type="Type">TfrxRTFExport</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form10.O:frxRTFExport1.DataOnly" resname="O:Form10.O:frxRTFExport1.DataOnly">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">44432.5258117361</prop><prop prop-type="Status">0</prop><prop prop-type="Order">83</prop><prop prop-type="Type">TfrxRTFExport</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form10.O:frxRTFExport1.PictureType" resname="O:Form10.O:frxRTFExport1.PictureType">
+        <source>gpPNG</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">44432.5258117361</prop><prop prop-type="Status">0</prop><prop prop-type="Order">84</prop><prop prop-type="Type">TfrxRTFExport</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form10.O:frxRTFExport1.OpenAfterExport" resname="O:Form10.O:frxRTFExport1.OpenAfterExport">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">44432.5258117361</prop><prop prop-type="Status">0</prop><prop prop-type="Order">85</prop><prop prop-type="Type">TfrxRTFExport</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form10.O:frxRTFExport1.Wysiwyg" resname="O:Form10.O:frxRTFExport1.Wysiwyg">
+        <source>True</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">44432.5258117361</prop><prop prop-type="Status">0</prop><prop prop-type="Order">86</prop><prop prop-type="Type">TfrxRTFExport</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form10.O:frxRTFExport1.Creator" resname="O:Form10.O:frxRTFExport1.Creator">
+        <source>'FastReport'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">44432.5258117361</prop><prop prop-type="Status">0</prop><prop prop-type="Order">87</prop><prop prop-type="Type">TfrxRTFExport</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form10.O:frxRTFExport1.SuppressPageHeadersFooters" resname="O:Form10.O:frxRTFExport1.SuppressPageHeadersFooters">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">44432.5258117477</prop><prop prop-type="Status">0</prop><prop prop-type="Order">88</prop><prop prop-type="Type">TfrxRTFExport</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form10.O:frxRTFExport1.HeaderFooterMode" resname="O:Form10.O:frxRTFExport1.HeaderFooterMode">
+        <source>hfText</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">44432.5258117477</prop><prop prop-type="Status">0</prop><prop prop-type="Order">89</prop><prop prop-type="Type">TfrxRTFExport</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form10.O:frxRTFExport1.AutoSize" resname="O:Form10.O:frxRTFExport1.AutoSize">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">44432.5258117477</prop><prop prop-type="Status">0</prop><prop prop-type="Order">90</prop><prop prop-type="Type">TfrxRTFExport</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form10.O:frxRTFExport1.Left" resname="O:Form10.O:frxRTFExport1.Left">
+        <source>592</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">44432.5258117477</prop><prop prop-type="Status">0</prop><prop prop-type="Order">91</prop><prop prop-type="Type">TfrxRTFExport</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form10.O:frxRTFExport1.Top" resname="O:Form10.O:frxRTFExport1.Top">
+        <source>136</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">44432.5258117477</prop><prop prop-type="Status">0</prop><prop prop-type="Order">92</prop><prop prop-type="Type">TfrxRTFExport</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form10.O:DataSource1.Left" resname="O:Form10.O:DataSource1.Left">
+        <source>240</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">44432.5258117477</prop><prop prop-type="Status">0</prop><prop prop-type="Order">93</prop><prop prop-type="Type">TDataSource</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form10.O:DataSource1.Top" resname="O:Form10.O:DataSource1.Top">
+        <source>56</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">44432.5258117477</prop><prop prop-type="Status">0</prop><prop prop-type="Order">94</prop><prop prop-type="Type">TDataSource</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form10.O:ADOConnection1.ConnectionString" resname="O:Form10.O:ADOConnection1.ConnectionString">
+        <source>'Provider=Microsoft.Jet.OLEDB.4.0;Data Source=fifa.mdb;Persist Security Info=False'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">44432.5258117477</prop><prop prop-type="Status">0</prop><prop prop-type="Order">95</prop><prop prop-type="Type">TADOConnection</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form10.O:ADOConnection1.LoginPrompt" resname="O:Form10.O:ADOConnection1.LoginPrompt">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">44432.5258117477</prop><prop prop-type="Status">0</prop><prop prop-type="Order">96</prop><prop prop-type="Type">TADOConnection</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form10.O:ADOConnection1.Provider" resname="O:Form10.O:ADOConnection1.Provider">
+        <source>'Microsoft.Jet.OLEDB.4.0'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">44432.5258117477</prop><prop prop-type="Status">0</prop><prop prop-type="Order">97</prop><prop prop-type="Type">TADOConnection</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form10.O:ADOConnection1.Left" resname="O:Form10.O:ADOConnection1.Left">
+        <source>128</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">44432.5258117477</prop><prop prop-type="Status">0</prop><prop prop-type="Order">98</prop><prop prop-type="Type">TADOConnection</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form10.O:ADOConnection1.Top" resname="O:Form10.O:ADOConnection1.Top">
+        <source>104</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">44432.5258117477</prop><prop prop-type="Status">0</prop><prop prop-type="Order">99</prop><prop prop-type="Type">TADOConnection</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form10.O:DataSource2.Left" resname="O:Form10.O:DataSource2.Left">
+        <source>240</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">44432.5258117477</prop><prop prop-type="Status">0</prop><prop prop-type="Order">100</prop><prop prop-type="Type">TDataSource</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form10.O:DataSource2.Top" resname="O:Form10.O:DataSource2.Top">
+        <source>144</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">44432.5258117477</prop><prop prop-type="Status">0</prop><prop prop-type="Order">101</prop><prop prop-type="Type">TDataSource</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

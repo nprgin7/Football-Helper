@@ -1,0 +1,48 @@
+//---------------------------------------------------------------------------
+
+#ifndef Unit7H
+#define Unit7H
+//---------------------------------------------------------------------------
+#include <System.Classes.hpp>
+#include <Vcl.Controls.hpp>
+#include <Vcl.StdCtrls.hpp>
+#include <Vcl.Forms.hpp>
+#include <Data.DB.hpp>
+#include <Data.Win.ADODB.hpp>
+#include <Vcl.DBGrids.hpp>
+#include <Vcl.Grids.hpp>
+#include <Vcl.ExtCtrls.hpp>
+#include <Vcl.Imaging.pngimage.hpp>
+
+#include <Vcl.DBCtrls.hpp>
+#include <Vcl.Imaging.jpeg.hpp>
+#include "frxClass.hpp"
+#include "frxDBSet.hpp"
+#include "frxExportBaseDialog.hpp"
+#include "frxExportPDF.hpp"
+//---------------------------------------------------------------------------
+class TForm7 : public TForm
+{
+__published:	// IDE-managed Components
+	TADOConnection *ADOConnection1;
+	TADOTable *TYear;
+	TADOTable *TPlayer;
+	TDataSource *DYear;
+	TDataSource *DPlayer;
+	TDBGrid *DBGrid1;
+	TDBGrid *DBGrid2;
+	TDBNavigator *DBNavigator2;
+	TImage *Image2;
+	TLabel *Label1;
+	TLabel *Label2;
+	TfrxDBDataset *frxDBDataset1;
+	TfrxReport *frxReport1;
+	TfrxPDFExport *frxPDFExport1;
+private:	// User declarations
+public:		// User declarations
+	__fastcall TForm7(TComponent* Owner);
+};
+//---------------------------------------------------------------------------
+extern PACKAGE TForm7 *Form7;
+//---------------------------------------------------------------------------
+#endif

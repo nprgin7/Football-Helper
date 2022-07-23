@@ -1,0 +1,18 @@
+//---------------------------------------------------------------------------
+
+#ifndef Unit24H
+#define Unit24H
+//---------------------------------------------------------------------------
+#include <System.Classes.hpp>
+//---------------------------------------------------------------------------
+class TGenerateCode2 : public TThread
+{
+private:
+protected:
+	void __fastcall Execute();
+public:
+	__fastcall TGenerateCode2(bool CreateSuspended);
+    void __fastcall UpdateText2();
+};
+//---------------------------------------------------------------------------
+#endif

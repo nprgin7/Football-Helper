@@ -1,0 +1,21 @@
+//---------------------------------------------------------------------------
+
+#ifndef Unit27H
+#define Unit27H
+//---------------------------------------------------------------------------
+#include <System.Classes.hpp>
+#include <Vcl.Controls.hpp>
+#include <Vcl.StdCtrls.hpp>
+#include <Vcl.Forms.hpp>
+//---------------------------------------------------------------------------
+class TForm27 : public TForm
+{
+__published:	// IDE-managed Components
+private:	// User declarations
+public:		// User declarations
+	__fastcall TForm27(TComponent* Owner);
+};
+//---------------------------------------------------------------------------
+extern PACKAGE TForm27 *Form27;
+//---------------------------------------------------------------------------
+#endif

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<PersonalityInfo>
+		<Option>
+			<Option Name="Personality">W32ResourceDLL.Personality</Option>
+			<Option Name="ProjectType">ResourceDLL</Option>
+			<Option Name="Version">1.0</Option>
+			<Option Name="GUID">{B2039501-FFAF-4DE9-8D7A-1AE76F79F5A2}</Option>
+		</Option>
+	</PersonalityInfo>
+	<W32ResourceDLL.Personality>
+		<Source>
+			<Source Name="MainSource">Project2.dpr</Source>
+		</Source>
+		<Options>
+			<Options Name="BaseLang">1050</Options>
+			<Options Name="TargetName">..\.\Project2.HRV</Options>
+			<Options Name="BRCC_IncludePath">..\..\..\Downloads\Predavanja (gotovi primjeri) (1)\Predavanja (gotovi primjeri)\6 - Network Applications\3 - Indy TCP (Multi-Chat)\Client\;C:\Program Files (x86)\FastReports\LibD26\</Options>
+			<Options Name="Company"></Options>
+			<Options Name="Configuration"></Options>
+			<Options Name="Copyright"></Options>
+			<Options Name="Description"></Options>
+			<Options Name="Trademark"></Options>
+			<Options Name="Product"></Options>
+			<Options Name="ProductVersion"></Options>
+			<Options Name="Title"></Options>
+			<Options Name="FileVersion"></Options>
+			<Options Name="Evidence"></Options>
+			<Options Name="KeyFile"></Options>
+			<Options Name="KeyName"></Options>
+		</Options>
+		<FileList>
+			<File FileName="Unit1.dfm" ContainerId="W32Form" ModuleName="Unit1.dfm"/>
+			<File FileName="Unit10.dfm" ContainerId="W32Form" ModuleName="Unit10.dfm"/>
+			<File FileName="Unit13.dfm" ContainerId="W32Form" ModuleName="Unit13.dfm"/>
+			<File FileName="Unit14.dfm" ContainerId="W32Form" ModuleName="Unit14.dfm"/>
+			<File FileName="Unit15.dfm" ContainerId="W32Form" ModuleName="Unit15.dfm"/>
+			<File FileName="Unit16.dfm" ContainerId="W32Form" ModuleName="Unit16.dfm"/>
+			<File FileName="Unit17.dfm" ContainerId="W32Form" ModuleName="Unit17.dfm"/>
+			<File FileName="Unit18.dfm" ContainerId="W32Form" ModuleName="Unit18.dfm"/>
+			<File FileName="Unit19.dfm" ContainerId="W32Form" ModuleName="Unit19.dfm"/>
+			<File FileName="Unit2.dfm" ContainerId="W32Form" ModuleName="Unit2.dfm"/>
+			<File FileName="Unit21.dfm" ContainerId="W32Form" ModuleName="Unit21.dfm"/>
+			<File FileName="Unit22.dfm" ContainerId="W32Form" ModuleName="Unit22.dfm"/>
+			<File FileName="Unit26.dfm" ContainerId="W32Form" ModuleName="Unit26.dfm"/>
+			<File FileName="Unit27.dfm" ContainerId="W32Form" ModuleName="Unit27.dfm"/>
+			<File FileName="Unit28.dfm" ContainerId="W32Form" ModuleName="Unit28.dfm"/>
+			<File FileName="Unit3.dfm" ContainerId="W32Form" ModuleName="Unit3.dfm"/>
+			<File FileName="Unit4.dfm" ContainerId="W32Form" ModuleName="Unit4.dfm"/>
+			<File FileName="Unit5.dfm" ContainerId="W32Form" ModuleName="Unit5.dfm"/>
+			<File FileName="Unit6.dfm" ContainerId="W32Form" ModuleName="Unit6.dfm"/>
+			<File FileName="Unit7.dfm" ContainerId="W32Form" ModuleName="Unit7.dfm"/>
+			<File FileName="Unit8.dfm" ContainerId="W32Form" ModuleName="Unit8.dfm"/>
+			<File FileName="Unit9.dfm" ContainerId="W32Form" ModuleName="Unit9.dfm"/>
+			<File FileName="Project2_DRC.rc" ContainerId="W32RC" ModuleName="Project2_DRC.rc"/>
+		</FileList>
+	</W32ResourceDLL.Personality>
+</BorlandProject>

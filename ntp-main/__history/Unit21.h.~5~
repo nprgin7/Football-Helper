@@ -1,0 +1,35 @@
+//---------------------------------------------------------------------------
+
+#ifndef Unit21H
+#define Unit21H
+//---------------------------------------------------------------------------
+#include <System.Classes.hpp>
+#include <Vcl.Controls.hpp>
+#include <Vcl.StdCtrls.hpp>
+#include <Vcl.Forms.hpp>
+#include <IdBaseComponent.hpp>
+#include <IdComponent.hpp>
+#include <IdCustomTCPServer.hpp>
+#include <IdTCPClient.hpp>
+#include <IdTCPConnection.hpp>
+#include <IdTCPServer.hpp>
+//---------------------------------------------------------------------------
+class TForm21 : public TForm
+{
+__published:	// IDE-managed Components
+	TEdit *EChatServer;
+	TEdit *ENick;
+	TButton *BCon;
+	TListBox *ListBox1;
+	TEdit *EMessage;
+	TButton *Button1;
+	TIdTCPClient *IdTCPClient1;
+	TIdTCPServer *IdTCPServer1;
+private:	// User declarations
+public:		// User declarations
+	__fastcall TForm21(TComponent* Owner);
+};
+//---------------------------------------------------------------------------
+extern PACKAGE TForm21 *Form21;
+//---------------------------------------------------------------------------
+#endif

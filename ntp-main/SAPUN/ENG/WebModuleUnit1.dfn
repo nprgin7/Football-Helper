@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE xliff PUBLIC "-//XLIFF//DTD XLIFF//EN" "http://www.oasis-open.org/committees/xliff/documents/xliff.dtd">
+<xliff version="1.0">
+  <file original="C:\Users\Filip\Documents\GitHub\ntp\SAPUN\WebModuleUnit1.dfm" source-language="hr-HR" target-language="en-GB" datatype="delphiform" tool="ETM v10.0" ts="C:\Users\Filip\Documents\GitHub\ntp\SAPUN\WebModuleUnit1.dfm">
+    <header>
+      <prop-group name="ITEHeaderProp">
+        <prop prop-type="Version">9.0</prop>
+        <prop prop-type="SelfDateTime">44432.7204166667</prop>
+        <prop prop-type="OrigDateTime">44431.7787731482</prop>
+        <prop prop-type="XlatDateTime">44431.7787731482</prop>
+        <prop prop-type="Translated">0</prop>
+        <prop prop-type="UnTranslated">20</prop>
+      </prop-group>
+    </header>
+    <body>
+      <trans-unit id="O:WebModule1.OldCreateOrder" resname="O:WebModule1.OldCreateOrder">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">44432.7204214468</prop><prop prop-type="Status">0</prop><prop prop-type="Order">0</prop><prop prop-type="Type">TWebModule1</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:WebModule1.Actions[0].Default" resname="O:WebModule1.Actions[0].Default">
+        <source>True</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">44432.7204214468</prop><prop prop-type="Status">0</prop><prop prop-type="Order">1</prop><prop prop-type="Type">C:TWebModule1</prop><prop prop-type="Localize">1</prop><prop prop-type="Open">&lt;item</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:WebModule1.Actions[0].Name" resname="O:WebModule1.Actions[0].Name">
+        <source>'DefaultHandler'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">44432.7204214468</prop><prop prop-type="Status">0</prop><prop prop-type="Order">2</prop><prop prop-type="Type">C:TWebModule1</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:WebModule1.Actions[0].PathInfo" resname="O:WebModule1.Actions[0].PathInfo">
+        <source>'/'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">44432.7204214468</prop><prop prop-type="Status">0</prop><prop prop-type="Order">3</prop><prop prop-type="Type">C:TWebModule1</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:WebModule1.Actions[0].OnAction" resname="O:WebModule1.Actions[0].OnAction">
+        <source>WebModule1DefaultHandlerAction</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">44432.7204214468</prop><prop prop-type="Status">0</prop><prop prop-type="Order">4</prop><prop prop-type="Type">C:TWebModule1</prop><prop prop-type="Localize">1</prop><prop prop-type="Close">end&gt;</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:WebModule1.Height" resname="O:WebModule1.Height">
+        <source>230</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">44432.7204214468</prop><prop prop-type="Status">0</prop><prop prop-type="Order">5</prop><prop prop-type="Type">TWebModule1</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:WebModule1.Width" resname="O:WebModule1.Width">
+        <source>415</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">44432.7204214468</prop><prop prop-type="Status">0</prop><prop prop-type="Order">6</prop><prop prop-type="Type">TWebModule1</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:WebModule1.O:HTTPSoapDispatcher1.Dispatcher" resname="O:WebModule1.O:HTTPSoapDispatcher1.Dispatcher">
+        <source>HTTPSoapCppInvoker1</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">44432.7204214468</prop><prop prop-type="Status">0</prop><prop prop-type="Order">7</prop><prop prop-type="Type">THTTPSoapDispatcher</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:WebModule1.O:HTTPSoapDispatcher1.WebDispatch.PathInfo" resname="O:WebModule1.O:HTTPSoapDispatcher1.WebDispatch.PathInfo">
+        <source>'soap*'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">44432.7204214468</prop><prop prop-type="Status">0</prop><prop prop-type="Order">8</prop><prop prop-type="Type">THTTPSoapDispatcher</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:WebModule1.O:HTTPSoapDispatcher1.Left" resname="O:WebModule1.O:HTTPSoapDispatcher1.Left">
+        <source>60</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">44432.7204214468</prop><prop prop-type="Status">0</prop><prop prop-type="Order">9</prop><prop prop-type="Type">THTTPSoapDispatcher</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:WebModule1.O:HTTPSoapDispatcher1.Top" resname="O:WebModule1.O:HTTPSoapDispatcher1.Top">
+        <source>11</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">44432.7204214468</prop><prop prop-type="Status">0</prop><prop prop-type="Order">10</prop><prop prop-type="Type">THTTPSoapDispatcher</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:WebModule1.O:HTTPSoapCppInvoker1.Converter.Options" resname="O:WebModule1.O:HTTPSoapCppInvoker1.Converter.Options">
+        <source>[soSendMultiRefObj, soTryAllSchema, soUTF8InHeader]</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">44432.7204214468</prop><prop prop-type="Status">0</prop><prop prop-type="Order">11</prop><prop prop-type="Type">THTTPSoapCppInvoker</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:WebModule1.O:HTTPSoapCppInvoker1.Left" resname="O:WebModule1.O:HTTPSoapCppInvoker1.Left">
+        <source>60</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">44432.7204214468</prop><prop prop-type="Status">0</prop><prop prop-type="Order">12</prop><prop prop-type="Type">THTTPSoapCppInvoker</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:WebModule1.O:HTTPSoapCppInvoker1.Top" resname="O:WebModule1.O:HTTPSoapCppInvoker1.Top">
+        <source>67</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">44432.7204214468</prop><prop prop-type="Status">0</prop><prop prop-type="Order">13</prop><prop prop-type="Type">THTTPSoapCppInvoker</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:WebModule1.O:WSDLHTMLPublish1.WebDispatch.MethodType" resname="O:WebModule1.O:WSDLHTMLPublish1.WebDispatch.MethodType">
+        <source>mtAny</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">44432.7204214468</prop><prop prop-type="Status">0</prop><prop prop-type="Order">14</prop><prop prop-type="Type">TWSDLHTMLPublish</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:WebModule1.O:WSDLHTMLPublish1.WebDispatch.PathInfo" resname="O:WebModule1.O:WSDLHTMLPublish1.WebDispatch.PathInfo">
+        <source>'wsdl*'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">44432.7204214468</prop><prop prop-type="Status">0</prop><prop prop-type="Order">15</prop><prop prop-type="Type">TWSDLHTMLPublish</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:WebModule1.O:WSDLHTMLPublish1.TargetNamespace" resname="O:WebModule1.O:WSDLHTMLPublish1.TargetNamespace">
+        <source>'http://tempuri.org/'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">44432.7204214468</prop><prop prop-type="Status">0</prop><prop prop-type="Order">16</prop><prop prop-type="Type">TWSDLHTMLPublish</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:WebModule1.O:WSDLHTMLPublish1.PublishOptions" resname="O:WebModule1.O:WSDLHTMLPublish1.PublishOptions">
+        <source>[poUTF8ContentType]</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">44432.7204214468</prop><prop prop-type="Status">0</prop><prop prop-type="Order">17</prop><prop prop-type="Type">TWSDLHTMLPublish</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:WebModule1.O:WSDLHTMLPublish1.Left" resname="O:WebModule1.O:WSDLHTMLPublish1.Left">
+        <source>60</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">44432.7204214468</prop><prop prop-type="Status">0</prop><prop prop-type="Order">18</prop><prop prop-type="Type">TWSDLHTMLPublish</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:WebModule1.O:WSDLHTMLPublish1.Top" resname="O:WebModule1.O:WSDLHTMLPublish1.Top">
+        <source>123</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">44432.7204214468</prop><prop prop-type="Status">0</prop><prop prop-type="Order">19</prop><prop prop-type="Type">TWSDLHTMLPublish</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,37 @@
+//---------------------------------------------------------------------------
+
+#include <vcl.h>
+#pragma hdrstop
+
+#include "Unit22.h"
+#include "Unit23.h"
+#include "Unit24.h"
+#include "Unit25.h"
+//---------------------------------------------------------------------------
+#pragma package(smart_init)
+#pragma resource "*.dfm"
+TForm22 *Form22;
+//---------------------------------------------------------------------------
+__fastcall TForm22::TForm22(TComponent* Owner)
+	: TForm(Owner)
+{
+}
+//---------------------------------------------------------------------------
+void __fastcall TForm22::Button1Click(TObject *Sender)
+{
+	TGenerateCode1 *prviDio = new TGenerateCode1(false);
+    TGenerateCode2 *drugiDio = new TGenerateCode2(false);
+
+}
+//---------------------------------------------------------------------------
+void __fastcall TForm22::Edit1Change(TObject *Sender)
+{
+	String prvi = Edit2->Text;
+	String drugi = Edit3->Text;
+	String treci = Edit4->Text;
+
+	String komba = prvi + drugi + treci;
+
+    Edit1->Text = komba;
+}
+//---------------------------------------------------------------------------

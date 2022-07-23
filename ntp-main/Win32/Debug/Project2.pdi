@@ -1,0 +1,17 @@
+IndySystem260.bpl
+RESTComponents260.bpl
+bindcomp260.bpl
+bindengine260.bpl
+vclimg260.bpl
+IndyCore260.bpl
+IndyProtocols260.bpl
+xmlrtl260.bpl
+FireDACCommon260.bpl
+FireDACCommonDriver260.bpl
+FireDACSqliteDriver260.bpl
+FireDAC260.bpl
+CustomIPTransport260.bpl
+bindcompvcl260.bpl
+dbrtl260.bpl
+vcl260.bpl
+rtl260.bpl

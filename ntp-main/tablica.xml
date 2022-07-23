@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table>
+	<team>
+		<naziv>GNK Dinamo</naziv>
+		<win>5</win>
+		<draw>1</draw>
+		<lose>0</lose>
+		<points></points>
+	</team>
+	<team>
+		<naziv>Varazdin</naziv>
+		<win>5</win>
+		<draw>6</draw>
+		<lose>7</lose>
+	</team>
+	<team><naziv>a</naziv><win>3</win><draw>3</draw><lose>3</lose></team></table>

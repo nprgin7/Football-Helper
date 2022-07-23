@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<definitions xmlns="http://schemas.xmlsoap.org/wsdl/" xmlns:xs="http://www.w3.org/2001/XMLSchema" name="IRatingservice" targetNamespace="http://tempuri.org/" xmlns:tns="http://tempuri.org/" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/">
+  <message name="rate0Request">
+    <part name="pace" type="xs:int"/>
+    <part name="shot" type="xs:int"/>
+    <part name="pass" type="xs:int"/>
+    <part name="drib" type="xs:int"/>
+    <part name="def" type="xs:int"/>
+    <part name="phy" type="xs:int"/>
+  </message>
+  <message name="rate0Response">
+    <part name="return" type="xs:double"/>
+  </message>
+  <portType name="IRating">
+    <operation name="rate">
+      <input message="tns:rate0Request"/>
+      <output message="tns:rate0Response"/>
+    </operation>
+  </portType>
+  <binding name="IRatingbinding" type="tns:IRating">
+    <binding xmlns="http://schemas.xmlsoap.org/wsdl/soap/" style="rpc" transport="http://schemas.xmlsoap.org/soap/http"/>
+    <operation name="rate">
+      <operation xmlns="http://schemas.xmlsoap.org/wsdl/soap/" soapAction="urn:Rating-IRating#rate" style="rpc"/>
+      <input>
+        <body xmlns="http://schemas.xmlsoap.org/wsdl/soap/" use="encoded" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" namespace="urn:Rating-IRating"/>
+      </input>
+      <output>
+        <body xmlns="http://schemas.xmlsoap.org/wsdl/soap/" use="encoded" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" namespace="urn:Rating-IRating"/>
+      </output>
+    </operation>
+  </binding>
+  <service name="IRatingservice">
+    <port name="IRatingPort" binding="tns:IRatingbinding">
+      <address xmlns="http://schemas.xmlsoap.org/wsdl/soap/" location="http://localhost:8080/soap/IRating"/>
+    </port>
+  </service>
+</definitions>
+
